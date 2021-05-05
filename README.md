@@ -1,1 +1,1 @@
-# Wedd-App
+# wedding-app
